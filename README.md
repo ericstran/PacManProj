@@ -9,10 +9,10 @@ Each level will get progresively harder. Good luck!
 [x] Project Structure  
 [x] Site Design - html/css  
 [x] Map Creation - js  
-[] Add player Object  
-  [] Movement  
-  [] Collisions  
-[] Refactor into react app  
-[] Add enemy object (movement/collision)  
-  [] AI for movement random walk  
-[] Add live/ game over system
+[ ] Add player Object  
+  [ ] Movement  
+  [ ] Collisions  
+[ ] Refactor into react app  
+[ ] Add enemy object (movement/collision)  
+  [ ] AI for movement random walk  
+[ ] Add live/ game over system
