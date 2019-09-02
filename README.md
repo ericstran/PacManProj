@@ -1,5 +1,5 @@
 # PacManProj
-### (Live Here)[https://pacmanproj.surge.sh]
+### [Live Here](https://pacmanproj.surge.sh)
 
 ### Summary  
 The player must make his way through the labrynth while avoiding the enemies which will be randomly patrolling the labrynth.  
